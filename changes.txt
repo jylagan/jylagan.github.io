@@ -1,0 +1,8 @@
+Here are the Website Extra Credit changes that I added: 
+
+2 - Gradient header/footer background 
+2 - Grid Margins 
+1 - Additional Media Query Change 
+1 - Mobile Image Height 
+
+Total: 6 points 
